@@ -1,1 +1,3 @@
-this is a file on branch1
+this is a file on branch2
+
+this is an edit on branch1
